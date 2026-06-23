@@ -1,6 +1,4 @@
-# Russian Social Media Discourse Monitor
-
-> Standard language ideologies of Large Language Models for Russian language.
+# Standard language ideologies of Large Language Models for Russian language.
 
 <!-- Swap the badges for your real values; delete any you don't use. -->
 ![Python](https://img.shields.io/badge/python-3.11-blue)
